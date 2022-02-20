@@ -1,2 +1,3 @@
 # RubyCalculator
-Calculator Using Ruby Language
+Basic calculator using Ruby language.
+First Ruby project.
